@@ -9,7 +9,9 @@ The Social Media App is a platform where users can connect, share updates, and e
 ***Try latest Social-Jaw app apk from below 👇***
 
 [![Social-Jaw](https://github.com/pareekdevansh/Social-Jaw/assets/80385154/ff67b7df-2718-4c1b-93dc-59cfa025a54a)](https://github.com/pareekdevansh/Social-Jaw/releases/download/android-app/release.version.1.apk)
-[Release](https://github.com/pareekdevansh/Social-Jaw/releases/download/android-app/release.version.1.apk)
+<!--- [Release](https://github.com/pareekdevansh/Social-Jaw/releases/download/android-app/release.version.1.apk) -->
+[Download the App](https://i.diawi.com/BxBoVD)
+
 
 
 <br />
